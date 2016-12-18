@@ -24,19 +24,19 @@ In the [Work](http://solenechanlam.com/index.php/work) section, it is possible t
 2. Select the artwork
 3. Navigate the tabs in order to modify the field you want to modify
 
-    |--------------------|-------------------|-------------------------------------------|  
+    +--------------------+-------------------+-------------------------------------------+  
     | Tab                | Field             | Description                               |  
-    |--------------------|-------------------|-------------------------------------------|  
+    +--------------------+-------------------+-------------------------------------------+  
     | Artwork Details    | Name              | Name of the artwork                       |  
     |                    | Alias             | URL of the artwork                        |  
     |                    | Description       | Description of the artwork                |  
     |                    | Category          | Film / Commercial                         |  
     |                    | Status            | Published / Unpublished                   |  
-    |--------------------|-------------------|-------------------------------------------|  
+    +--------------------+-------------------+-------------------------------------------+  
     | Artwork Attributes | Artwork Thumbnail | Thumbnail of the artwork                  |  
     |                    | Artwork Date Work | Date at which the work has been done      |  
     |                    | Artwork Date Out  | Date at which the artwork was made public |  
-    |--------------------|-------------------|-------------------------------------------|  
+    +--------------------+-------------------+-------------------------------------------+  
     | Images and Links   | Image             | High definition image of the artwork      |  
     |                    | Link A, B, C      | Links to YouTube videos                   |  
-    |--------------------|-------------------|-------------------------------------------|  
+    +--------------------+-------------------+-------------------------------------------+  
